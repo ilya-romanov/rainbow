@@ -10,15 +10,6 @@
     height: 100vh;
     overflow: hidden;
 }
-/* 
-.container {
-    background-color:#800080;
-}
-
-h1 {
-    color:#008000; 
-} */
-
 
 @media only screen and (max-width: 480px){
     .container {
